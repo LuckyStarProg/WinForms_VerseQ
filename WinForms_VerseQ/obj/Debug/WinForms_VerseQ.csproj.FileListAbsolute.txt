@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\bin\Debug\WinForms_VerseQ.exe.config
+\\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\bin\Debug\WinForms_VerseQ.exe
+\\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\bin\Debug\WinForms_VerseQ.pdb
+\\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.exe
+\\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.pdb
