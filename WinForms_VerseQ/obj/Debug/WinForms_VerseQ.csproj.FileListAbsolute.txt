@@ -7,3 +7,12 @@
 \\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.csproj.GenerateResource.Cache
 \\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.exe
 \\mac\home\documents\visual studio 2015\Projects\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.pdb
+\\Mac\Home\Desktop\WinForms_VerseQ\WinForms_VerseQ\bin\Debug\WinForms_VerseQ.exe.config
+\\Mac\Home\Desktop\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.exe
+\\Mac\Home\Desktop\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.pdb
+\\Mac\Home\Desktop\WinForms_VerseQ\WinForms_VerseQ\bin\Debug\WinForms_VerseQ.exe
+\\Mac\Home\Desktop\WinForms_VerseQ\WinForms_VerseQ\bin\Debug\WinForms_VerseQ.pdb
+\\Mac\Home\Desktop\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.Form1.resources
+\\Mac\Home\Desktop\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.Properties.Resources.resources
+\\Mac\Home\Desktop\WinForms_VerseQ\WinForms_VerseQ\obj\Debug\WinForms_VerseQ.csproj.GenerateResource.Cache

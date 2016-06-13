@@ -330,7 +330,12 @@ namespace WinForms_VerseQ
         {
             for (int i = 0; i < textToType.Length; ++i)
             {
+                textToType[i].BackColor = Color.FromArgb(0, 0,0,0);
                 textToType[i].Visible = false;
+            }
+            for (int i = 0; i < textTyped.Length; ++i)
+            {
+                textTyped[i].Visible = false;
             }
             StartButton.Enabled = true;
             CloseButton.Enabled = false;
